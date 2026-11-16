@@ -1,0 +1,4 @@
+<linker>
+    <assembly fullname="Gilzoide.SqliteNet" preserve="all" />
+    <assembly fullname="ChiecLopCuoi.Runtime" preserve="all" />
+</linker>

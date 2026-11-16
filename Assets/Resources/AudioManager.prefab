@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &888000001
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 888000002}
+  - component: {fileID: 888000003}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &888000002
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 888000001}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &888000003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 888000001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 902cc2d6e28f9d048aaa60ca7fcb4c9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bgmSource: {fileID: 0}
+  sfxSource: {fileID: 0}
+  uiSource: {fileID: 0}
+  encounterSource: {fileID: 0}
+  bgmLoginClip: {fileID: 8300000, guid: f20ec434d2141db47871cd942b15d005, type: 3}
+  bgmBattleClip: {fileID: 8300000, guid: bde34a98cbed728429e3a82bddce42c3, type: 3}
+  bgmBossEncounterClip: {fileID: 0}
+  sfxRunClip: {fileID: 8300000, guid: de01f841cdb85174da37bf0a22812540, type: 3}
+  sfxJumpClip: {fileID: 8300000, guid: 4e8436ab3483aea40a133252ca1231cf, type: 3}
+  sfxHitImpactClip: {fileID: 8300000, guid: 63b03b9c56e649a46bd26517573b0195, type: 3}
+  sfxWhooshClip: {fileID: 8300000, guid: 3baf9423bcd372f4c9ad7f7164bd8aa2, type: 3}
+  sfxPickupClip: {fileID: 8300000, guid: 64e5534d8c18b3f488082b800f88ad5b, type: 3}
+  sfxVictoryClip: {fileID: 8300000, guid: 600b29c63c67c7f419dbef3737417879, type: 3}
+  sfxDefeatClip: {fileID: 8300000, guid: 6c1cac8d0e4c74241b3c4431b214ac35, type: 3}
+  sfxGateClearedClip: {fileID: 8300000, guid: 7aad4182f1b62be47bac7209230247ca, type: 3}
+  sfxRageClip: {fileID: 0}
+  uiBtnAttackClip: {fileID: 8300000, guid: cf5b3666afccae548859ab365ed3f304, type: 3}
+  uiBtnDefendClip: {fileID: 8300000, guid: 8c78deb56afcb6b41ac04de0e910e84e, type: 3}
+  uiBtnRetreatClip: {fileID: 8300000, guid: 31143a73a26e02445af90d130ed4c200, type: 3}
+  uiClickClip: {fileID: 8300000, guid: 76c88651ab1bfb64a8937a46929d5135, type: 3}
+  bgmVolume: 0.8
+  sfxVolume: 1
+  uiVolume: 1

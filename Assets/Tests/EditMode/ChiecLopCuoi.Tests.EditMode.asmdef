@@ -1,0 +1,25 @@
+{
+  "name": "ChiecLopCuoi.Tests.EditMode",
+  "rootNamespace": "ChiecLopCuoi.Tests.EditMode",
+  "references": [
+    "ChiecLopCuoi.Runtime",
+    "Unity.InputSystem",
+    "Unity.TextMeshPro"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 6e749405aa28f88d0343811c04d98ade
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CowLop_Attack_0
+  - first:
+      213: 21300002
+    second: CowLop_Attack_1
+  - first:
+      213: 21300004
+    second: CowLop_Attack_2
+  - first:
+      213: 21300006
+    second: CowLop_Attack_3
+  - first:
+      213: 21300008
+    second: CowLop_Attack_4
+  - first:
+      213: 21300010
+    second: CowLop_Attack_5
+  - first:
+      213: 21300012
+    second: CowLop_TireSpin_0
+  - first:
+      213: 21300014
+    second: CowLop_TireSpin_1
+  - first:
+      213: 21300016
+    second: CowLop_TireSpin_2
+  - first:
+      213: 21300018
+    second: CowLop_TireSpin_3
+  - first:
+      213: 21300020
+    second: CowLop_TireSpin_4
+  - first:
+      213: 21300022
+    second: CowLop_TireSpin_5
+  - first:
+      213: 21300024
+    second: CowLop_TireThrow_0
+  - first:
+      213: 21300026
+    second: CowLop_TireThrow_1
+  - first:
+      213: 21300028
+    second: CowLop_TireThrow_2
+  - first:
+      213: 21300030
+    second: CowLop_TireThrow_3
+  - first:
+      213: 21300032
+    second: CowLop_TireThrow_4
+  - first:
+      213: 21300034
+    second: CowLop_TireThrow_5
+  - first:
+      213: 21300036
+    second: CowLop_JumpSlam_0
+  - first:
+      213: 21300038
+    second: CowLop_JumpSlam_1
+  - first:
+      213: 21300040
+    second: CowLop_JumpSlam_2
+  - first:
+      213: 21300042
+    second: CowLop_JumpSlam_3
+  - first:
+      213: 21300044
+    second: CowLop_JumpSlam_4
+  - first:
+      213: 21300046
+    second: CowLop_JumpSlam_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 4
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 165
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CowLop_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 669
+        width: 108
+        height: 178
+      alignment: 9
+      pivot: {x: 0.462963, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 669
+        width: 125
+        height: 174
+      alignment: 9
+      pivot: {x: 0.392, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 669
+        width: 126
+        height: 171
+      alignment: 9
+      pivot: {x: 0.436508, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 669
+        width: 96
+        height: 176
+      alignment: 9
+      pivot: {x: 0.46875, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 669
+        width: 138
+        height: 170
+      alignment: 9
+      pivot: {x: 0.326087, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 669
+        width: 107
+        height: 170
+      alignment: 9
+      pivot: {x: 0.514019, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_TireSpin_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 113
+        height: 164
+      alignment: 9
+      pivot: {x: 0.433628, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_TireSpin_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 448
+        width: 162
+        height: 163
+      alignment: 9
+      pivot: {x: 0.37037, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_TireSpin_2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 448
+        width: 141
+        height: 164
+      alignment: 9
+      pivot: {x: 0.255319, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_TireSpin_3
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 448
+        width: 151
+        height: 189
+      alignment: 9
+      pivot: {x: 0.311258, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_TireSpin_4
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 448
+        width: 146
+        height: 129
+      alignment: 9
+      pivot: {x: 0.438356, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_TireSpin_5
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 448
+        width: 97
+        height: 167
+      alignment: 9
+      pivot: {x: 0.402062, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_TireThrow_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 227
+        width: 109
+        height: 169
+      alignment: 9
+      pivot: {x: 0.559633, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_TireThrow_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 227
+        width: 120
+        height: 168
+      alignment: 9
+      pivot: {x: 0.483333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_TireThrow_2
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 227
+        width: 117
+        height: 187
+      alignment: 9
+      pivot: {x: 0.564103, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_TireThrow_3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 227
+        width: 137
+        height: 160
+      alignment: 9
+      pivot: {x: 0.423358, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_TireThrow_4
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 227
+        width: 122
+        height: 160
+      alignment: 9
+      pivot: {x: 0.713115, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_TireThrow_5
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 227
+        width: 95
+        height: 174
+      alignment: 9
+      pivot: {x: 0.526316, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_JumpSlam_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6
+        width: 130
+        height: 142
+      alignment: 9
+      pivot: {x: 0.353846, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_JumpSlam_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 6
+        width: 90
+        height: 209
+      alignment: 9
+      pivot: {x: 0.422222, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_JumpSlam_2
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 6
+        width: 88
+        height: 202
+      alignment: 9
+      pivot: {x: 0.602273, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_JumpSlam_3
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 6
+        width: 155
+        height: 123
+      alignment: 9
+      pivot: {x: 0.470968, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_JumpSlam_4
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 6
+        width: 198
+        height: 112
+      alignment: 9
+      pivot: {x: 0.479798, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CowLop_JumpSlam_5
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 6
+        width: 113
+        height: 163
+      alignment: 9
+      pivot: {x: 0.557522, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7ee78c021fe9dd640bc5904c7f7f2914
+    internalID: 21300000
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CowLop_Attack_0: 21300000
+      CowLop_Attack_1: 21300002
+      CowLop_Attack_2: 21300004
+      CowLop_Attack_3: 21300006
+      CowLop_Attack_4: 21300008
+      CowLop_Attack_5: 21300010
+      CowLop_JumpSlam_0: 21300036
+      CowLop_JumpSlam_1: 21300038
+      CowLop_JumpSlam_2: 21300040
+      CowLop_JumpSlam_3: 21300042
+      CowLop_JumpSlam_4: 21300044
+      CowLop_JumpSlam_5: 21300046
+      CowLop_TireSpin_0: 21300012
+      CowLop_TireSpin_1: 21300014
+      CowLop_TireSpin_2: 21300016
+      CowLop_TireSpin_3: 21300018
+      CowLop_TireSpin_4: 21300020
+      CowLop_TireSpin_5: 21300022
+      CowLop_TireThrow_0: 21300024
+      CowLop_TireThrow_1: 21300026
+      CowLop_TireThrow_2: 21300028
+      CowLop_TireThrow_3: 21300030
+      CowLop_TireThrow_4: 21300032
+      CowLop_TireThrow_5: 21300034
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

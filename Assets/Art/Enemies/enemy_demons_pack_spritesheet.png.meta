@@ -1,0 +1,1290 @@
+fileFormatVersion: 2
+guid: f6022325d0cde434b88a76d9f74ddadc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 4
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: quyghen_idle_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 896
+        width: 84
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4955, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d68b0320be460340800000000000000
+      internalID: 4829634168810604242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quyghen_idle_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 895
+        width: 79
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4873, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb529af785e177c80800000000000000
+      internalID: -8325152020723325506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quyghen_idle_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 896
+        width: 78
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4892, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebe92966aeddc650800000000000000
+      internalID: 6254900263797779433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quyghen_idle_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 896
+        width: 83
+        height: 63
+      alignment: 9
+      pivot: {x: 0.494, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3179adc99646ab390800000000000000
+      internalID: -7801812999700048109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quyghen_idle_4
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 896
+        width: 92
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14093d493a401e75b30f79150053147
+      internalID: 863316602187017577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quyghen_idle_5
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 896
+        width: 84
+        height: 72
+      alignment: 9
+      pivot: {x: 0.494, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a30d212d1f577e0297abdc580e7454
+      internalID: 506588974651908740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quyghen_attack_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 788
+        width: 87
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4943, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5331e39e0eab2c0800000000000000
+      internalID: -4414969192309901917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quyghen_attack_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 788
+        width: 88
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4943, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3124b2f8cb31d30800000000000000
+      internalID: 4401068583963202505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quyghen_attack_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 788
+        width: 94
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5053, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3b742aa73d85b10800000000000000
+      internalID: 1970557360636670895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quyghen_attack_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 788
+        width: 92
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d824dee5706189c40800000000000000
+      internalID: 5519185564255732365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quyghen_attack_4
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 788
+        width: 148
+        height: 86
+      alignment: 9
+      pivot: {x: 0.3142, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce99643d50e43b0399d6deb08703a5d0
+      internalID: 139383483849924761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quydau_idle_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 640
+        width: 74
+        height: 82
+      alignment: 9
+      pivot: {x: 0.527, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33468855b0176e40800000000000000
+      internalID: 5649502628619895611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quydau_idle_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 640
+        width: 79
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5618, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637b297440df002a0800000000000000
+      internalID: -6773135644742731978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quydau_idle_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 640
+        width: 71
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4394, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69384e35273ed640800000000000000
+      internalID: 5106579660582959469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quydau_idle_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 640
+        width: 77
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4675, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b854c73afcc9711c0800000000000000
+      internalID: -4532982084310121077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quydau_idle_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 640
+        width: 78
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5385, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91df67036ccd2fe3d9e24ec8ca02714
+      internalID: 107667023631012332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quydau_idle_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 640
+        width: 75
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5067, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88dfb700f3dc2fade3677118f0fdf03
+      internalID: 138831814571298329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quydau_attack_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 534
+        width: 78
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4744, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afd2123693cbd570800000000000000
+      internalID: 8492596572189810601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quydau_attack_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 534
+        width: 81
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4259, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ea3fb6b07941470800000000000000
+      internalID: 8364476483245420075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quydau_attack_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 534
+        width: 89
+        height: 83
+      alignment: 9
+      pivot: {x: 0.3856, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c8b3ce4af539a10800000000000000
+      internalID: 1914979428505193565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quydau_attack_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 534
+        width: 106
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3726, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42639ef7f9fd8a980800000000000000
+      internalID: -8527320018287249884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quydau_attack_4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 533
+        width: 108
+        height: 83
+      alignment: 9
+      pivot: {x: 0.3657, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a603f897f9c5c9bcb6711398badb9d
+      internalID: 215125904208910972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quydau_attack_5
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 533
+        width: 133
+        height: 83
+      alignment: 9
+      pivot: {x: 0.1654, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e7102b360baa815d473ec3a9faeb52
+      internalID: 355571217738250527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quydau_attack_6
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 534
+        width: 120
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4417, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a4b62a02abd5367a1034e64f184e1f
+      internalID: 792059146233197935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quytuti_idle_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 384
+        width: 59
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4322, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fee0490e02fdc90800000000000000
+      internalID: -7142954335057547386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quytuti_idle_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 384
+        width: 60
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4167, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb8bbe4b4d4576c0800000000000000
+      internalID: -4146322896085873687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quytuti_idle_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 384
+        width: 62
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4355, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ccf7e43efe0cae0800000000000000
+      internalID: -1530960113752355833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quytuti_idle_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 384
+        width: 59
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4153, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e6018979ebe2300800000000000000
+      internalID: 229330189343026832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quytuti_idle_4
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 384
+        width: 55
+        height: 77
+      alignment: 9
+      pivot: {x: 0.4091, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75be4192f00af7d5cfe2d7bdb90224ce
+      internalID: 632644734228296711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quytuti_idle_5
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 384
+        width: 54
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4815, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae51cefc5ed2bcd143d6beee4e4363f7
+      internalID: 58892400254559181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quytuti_attack_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 280
+        width: 58
+        height: 76
+      alignment: 9
+      pivot: {x: 0.3534, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3406d1cf50f6e0c70800000000000000
+      internalID: 8939204381872316483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quytuti_attack_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 280
+        width: 74
+        height: 76
+      alignment: 9
+      pivot: {x: 0.2703, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e1becfd5020c950800000000000000
+      internalID: 6467204652951346721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quytuti_attack_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 280
+        width: 80
+        height: 76
+      alignment: 9
+      pivot: {x: 0.2233, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9889a1a0dacf7c70800000000000000
+      internalID: 8971111980159568030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quytuti_attack_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 283
+        width: 83
+        height: 73
+      alignment: 9
+      pivot: {x: 0.259, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79be614f5f7a1b850800000000000000
+      internalID: 6391074021019413399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quytuti_attack_4
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 280
+        width: 79
+        height: 76
+      alignment: 9
+      pivot: {x: 0.3582, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b3f9b4b91f19fe35a580e1911947e7
+      internalID: 617341640724406496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quytuti_attack_5
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 280
+        width: 54
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4444, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48579df2b50b612a781aa8c3dcf7ecc2
+      internalID: 989972212037952499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quytuti_attack_6
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 281
+        width: 54
+        height: 75
+      alignment: 9
+      pivot: {x: 0.4537, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922551c80b7ba101f2740820b664b520
+      internalID: 4953024918623342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quygian_idle_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 128
+        width: 95
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4053, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dd95c57042a0090800000000000000
+      internalID: -8067596168448058010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quygian_idle_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 128
+        width: 102
+        height: 88
+      alignment: 9
+      pivot: {x: 0.3912, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e150da0d8bd54f0800000000000000
+      internalID: -838310749225542014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quygian_idle_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 128
+        width: 88
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4375, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4f2debe2472d430800000000000000
+      internalID: 3806232379200304331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quygian_idle_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 128
+        width: 97
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4278, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef218cc0fef4198d0800000000000000
+      internalID: -2841402001763855618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quygian_idle_4
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 128
+        width: 89
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4663, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caae24a40fa3dc8e675ea58693c379f3
+      internalID: 672424854855775546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quygian_idle_5
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 128
+        width: 96
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4669, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56843bdf31197e52ee45cae339a92be4
+      internalID: 370944427611438913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quygian_attack_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 19
+        width: 87
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4023, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673feb8bfeb3a5c20800000000000000
+      internalID: 3195932786355532662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quygian_attack_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 19
+        width: 90
+        height: 102
+      alignment: 9
+      pivot: {x: 0.4167, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cec0fd8e94bbf30800000000000000
+      internalID: 4592345509557759082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quygian_attack_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 19
+        width: 92
+        height: 101
+      alignment: 9
+      pivot: {x: 0.3367, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2422ba3dae4154e80800000000000000
+      internalID: -8195120948124638654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quygian_attack_3
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 19
+        width: 97
+        height: 95
+      alignment: 9
+      pivot: {x: 0.2377, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235ae9df639b13be0800000000000000
+      internalID: -1499213555103259342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quygian_attack_4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 19
+        width: 108
+        height: 88
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a694f4122ccb7783b1844da8e04d4f7
+      internalID: 152765017230075250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quygian_attack_5
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 19
+        width: 109
+        height: 96
+      alignment: 9
+      pivot: {x: 0.2156, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00664945b377cc81f0c119338366890
+      internalID: 684388952032724308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quygian_attack_6
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 19
+        width: 119
+        height: 85
+      alignment: 9
+      pivot: {x: 0.3613, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43824bceb7b02e9f9cdfb47d49bd3239
+      internalID: 275309479137738789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quygian_attack_7
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 19
+        width: 120
+        height: 85
+      alignment: 9
+      pivot: {x: 0.2373, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34819fa559a8333b50a7d3fed5f385dd
+      internalID: 266010105436359014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 491eb38307113d446a90d42c81268864
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      quydau_attack_0: 8492596572189810601
+      quydau_attack_1: 8364476483245420075
+      quydau_attack_2: 1914979428505193565
+      quydau_attack_3: -8527320018287249884
+      quydau_attack_4: 215125904208910972
+      quydau_attack_5: 355571217738250527
+      quydau_attack_6: 792059146233197935
+      quydau_idle_0: 5649502628619895611
+      quydau_idle_1: -6773135644742731978
+      quydau_idle_2: 5106579660582959469
+      quydau_idle_3: -4532982084310121077
+      quydau_idle_4: 107667023631012332
+      quydau_idle_5: 138831814571298329
+      quyghen_attack_0: -4414969192309901917
+      quyghen_attack_1: 4401068583963202505
+      quyghen_attack_2: 1970557360636670895
+      quyghen_attack_3: 5519185564255732365
+      quyghen_attack_4: 139383483849924761
+      quyghen_idle_0: 4829634168810604242
+      quyghen_idle_1: -8325152020723325506
+      quyghen_idle_2: 6254900263797779433
+      quyghen_idle_3: -7801812999700048109
+      quyghen_idle_4: 863316602187017577
+      quyghen_idle_5: 506588974651908740
+      quygian_attack_0: 3195932786355532662
+      quygian_attack_1: 4592345509557759082
+      quygian_attack_2: -8195120948124638654
+      quygian_attack_3: -1499213555103259342
+      quygian_attack_4: 152765017230075250
+      quygian_attack_5: 684388952032724308
+      quygian_attack_6: 275309479137738789
+      quygian_attack_7: 266010105436359014
+      quygian_idle_0: -8067596168448058010
+      quygian_idle_1: -838310749225542014
+      quygian_idle_2: 3806232379200304331
+      quygian_idle_3: -2841402001763855618
+      quygian_idle_4: 672424854855775546
+      quygian_idle_5: 370944427611438913
+      quytuti_attack_0: 8939204381872316483
+      quytuti_attack_1: 6467204652951346721
+      quytuti_attack_2: 8971111980159568030
+      quytuti_attack_3: 6391074021019413399
+      quytuti_attack_4: 617341640724406496
+      quytuti_attack_5: 989972212037952499
+      quytuti_attack_6: 4953024918623342
+      quytuti_idle_0: -7142954335057547386
+      quytuti_idle_1: -4146322896085873687
+      quytuti_idle_2: -1530960113752355833
+      quytuti_idle_3: 229330189343026832
+      quytuti_idle_4: 632644734228296711
+      quytuti_idle_5: 58892400254559181
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
